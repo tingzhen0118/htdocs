@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="author" content="Frieda">
 <link rel="icon"
-    href="{{ URL::asset('https://bl3302files.storage.live.com/y4m-PTV-bzPzMzRVVdTmw9sBTVU6z25L_PjuhnA0WJflgEXZN7tlRjeryt55RFYJRRX1MJ_KQsmnZoNL8udglRs5qd40gz3b9UalhREmqpvX6-xeDJc4wv9FfWtoW8qA9xpeQ8q7WOE2SBoC6ITmoEKXQIu89mYnb_OAwOlTKNll_GlIjCXH7zpi6dTDvWaEm6z?width=512&height=512&cropmode=none') }}"
+    href="{{ URL::asset('https://bl3302files.storage.live.com/y4m2PKhbbZjrG0gpD8KD-F4G2COoUP-NvXGqQQ5Su6PTMxzb52HHo5_038IP0zOrCNQjXPaaHBRh0ukW2izTwd54_aQJ9yOOYKtbeCTsq3RpR1FPV0cDT74Dz-XqMGPZ97ZGTz2npd4CejFfcmm5o35gZ52WRt4pzTXJg6daiZvtl3yBBWJtUArYIR35eUEOTrw?width=512&height=512&cropmode=none') }}"
     type="image/x-icon" />
 <link
     href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@900&display=swap"
