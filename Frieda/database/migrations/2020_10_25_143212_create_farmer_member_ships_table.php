@@ -16,11 +16,11 @@ class CreateFarmerMemberShipsTable extends Migration
         Schema::create('farmer_member_ships', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->string('personal_id')->unique();
+            $table->string('personal_id')->unique(); //身分證號碼
             $table->string('email')->unique();
             $table->string('password');
             $table->rememberToken()->nullable();
-            $table->string('filename');
+            $table->string('filename'); //有機認證或產銷履歷認證
             $table->timestamps();
 
         });

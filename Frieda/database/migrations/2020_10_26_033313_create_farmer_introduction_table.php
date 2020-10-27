@@ -20,7 +20,7 @@ class CreateFarmerIntroductionTable extends Migration
             $table->text('farm_content');
             $table->integer('lid');
             $table->integer('vegid');
-            $table->string('veg_filename');
+            $table->string('veg_filename'); //商品美照片
             $table->string('discount', 6)->nullable();
             $table->string('contact_number')->nullable();
             $table->string('contact_email')->nullable();
