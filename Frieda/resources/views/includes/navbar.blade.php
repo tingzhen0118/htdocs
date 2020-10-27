@@ -56,7 +56,7 @@
     width: 256px;
     height: 256px;
     border: none"
-                                onclick="location.href='http://127.0.0.1:8000/loginPeople';"></td>
+                                onclick="location.href='http://127.0.0.1:8000/loginFarmer';"></td>
                             <td><input type="button" title="民眾登入"
                                 style="background-image:
         url(https://duypda.bl.files.1drv.com/y4mFOwkaNqesFGNg5jJ7Ulr0ZaMgFnQaeLRr0zaDtQ3_mBlTJUg1mzeXl07qI3xE6fFHziCrH_AE3ZdMmeVIbEdRHU9kuUOzyXRrcpsYoR5sB8_qB-aYncRi44jwbqq7_nwThTnZ_xWbL9DH06U_USRvg3UFitAxW59MB3wraWv7dmyW-5w2em1kgHI7VAsJMvY2TArt3nYv3rkWjp7eoWo0w?width=256&amp;amp;amp;amp;height=256&amp;amp;amp;amp;cropmode=none);
@@ -65,7 +65,7 @@
     width: 256px;
     height: 256px;
     border: none"
-                                onclick="location.href='http://127.0.0.1:8000/loginFarmer';"></td>
+                                onclick="location.href='http://127.0.0.1:8000/loginPeople';"></td>
                         </tr>
                         <tr>
                             <td><b><font size="5">農夫登入</font></b></td>
