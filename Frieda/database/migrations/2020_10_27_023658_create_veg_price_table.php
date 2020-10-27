@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreatePeopleLikeTable extends Migration
+class CreateVegPriceTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,14 @@ class CreatePeopleLikeTable extends Migration
      */
     public function up()
     {
-        Schema::create('people_like', function (Blueprint $table) {
+        Schema::create('veg_price', function (Blueprint $table) {
             $table->id();
-            $table->integer('pid'); //民眾id
-            $table->integer('fid'); //農民id
-            $table->integer('like_fid'); //被喜歡的農民id
+            $table->string('vegid');
+            $table->integer('lid'); 
+            $table->integer('price');
+            $table->datetime('date');
             $table->timestamps();
+
         });
     }
 
@@ -29,6 +31,6 @@ class CreatePeopleLikeTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('people_like');
+        Schema::dropIfExists('veg_price');
     }
 }

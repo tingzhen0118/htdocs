@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreatePeopleLikeTable extends Migration
+class CreatePeopleSponsorTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,11 @@ class CreatePeopleLikeTable extends Migration
      */
     public function up()
     {
-        Schema::create('people_like', function (Blueprint $table) {
+        Schema::create('people_sponsor', function (Blueprint $table) {
             $table->id();
-            $table->integer('pid'); //民眾id
-            $table->integer('fid'); //農民id
-            $table->integer('like_fid'); //被喜歡的農民id
+            $table->integer('pid')->nullable(); //民眾id
+            $table->integer('fid')->nullable(); //農民id
+            $table->integer('con_fid');//農民的贊助合約
             $table->timestamps();
         });
     }
@@ -29,6 +29,6 @@ class CreatePeopleLikeTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('people_like');
+        Schema::dropIfExists('people_sponsor');
     }
 }

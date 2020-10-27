@@ -17,11 +17,11 @@ class CreateFarmerIntroductionTable extends Migration
             $table->id();
             $table->integer('fid')->unique();   
             $table->string('farm_name');
-            $table->string('farm_content');
+            $table->text('farm_content');
             $table->integer('lid');
             $table->integer('vegid');
             $table->string('veg_filename');
-            $table->string('discount');
+            $table->string('discount', 6)->nullable();
             $table->string('contact_number')->nullable();
             $table->string('contact_email')->nullable();
             $table->string('contact_address')->nullable();
