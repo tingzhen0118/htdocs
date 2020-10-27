@@ -15,7 +15,7 @@ class CreateVeglistTable extends Migration
     {
         Schema::create('veglist', function (Blueprint $table) {
             $table->id();
-            $table->string('category');
+            $table->string('category'); //蔬菜分類(花果根莖)
             });
     }
 

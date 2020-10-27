@@ -15,8 +15,8 @@ class CreatePeopleLikeTable extends Migration
     {
         Schema::create('people_like', function (Blueprint $table) {
             $table->id();
-            $table->integer('pid'); //民眾id
-            $table->integer('fid'); //農民id
+            $table->integer('pid')->nullable(); //民眾id
+            $table->integer('fid')->nullable(); //農民id
             $table->integer('like_fid'); //被喜歡的農民id
             $table->timestamps();
         });
