@@ -43,3 +43,6 @@ Route::get('/sponsors',function () {return view("pages.sponsors");});
 Route::get('/sessionPeople',function () {return view("pages.sessionPeople");});
 Route::get('/sessionFarmer',function () {return view("pages.sessionFarmer");});
 Route::get('/myFavorites',function () {return view("pages.myFavorites");});
+
+/*----農夫頁面----*/
+Route::get('/designGardenFarmer',function () {return view("pages.designGardenFarmer");});
