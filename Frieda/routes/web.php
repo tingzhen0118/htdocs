@@ -37,6 +37,6 @@ Route::get('/registerPeople',
 /*-----民眾頁面--尚未設定會員機制*/
 
 Route::get('/sessionPeople',function () {return view("pages.sessionPeople");});
-Route::get('/sessionFarmer',function () {return view("pages.sessionPeople");});
+Route::get('/sessionFarmer',function () {return view("pages.sessionFarmer");});
 
 Route::get('/myFavorites',function () {return view("pages.myFavorites");});
