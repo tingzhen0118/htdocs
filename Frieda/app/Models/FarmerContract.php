@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class FarmerContract extends Model
 {
     use HasFactory;
+    protected $fillable =['fid', 'name', 'content', 'price']; //確保資料庫可被新增或修改
 }

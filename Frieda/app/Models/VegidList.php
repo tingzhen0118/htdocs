@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class VegidList extends Model
 {
     use HasFactory;
+    protected $fillable =['category', 'vegname'];
 }

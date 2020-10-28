@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class PeopleSponsor extends Model
 {
     use HasFactory;
+    protected $fillable =['pid', 'lid', 'con_fid'];
 }
