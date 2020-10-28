@@ -17,7 +17,7 @@
         <!--  <button class="btn btn-outline-success btn-lg h3 p-2" type="button"
             data-toggle="modal" data-target="#exampleModalCenter">農民登入</button>-->
     </nav>
-    <nav>
+  <!--  <nav>
         <ul
             class="nav nav-pills nav-justified container d-flex float-none navbar navbar-light bg-light">
             <li class="nav-item"><a class="h4 nav-link btn-outline-success"
@@ -29,7 +29,7 @@
             <li class="nav-item"><a class="h4 nav-link btn-outline-success"
                 href="http://127.0.0.1:8000" tabindex="-1" aria-disabled="true">推薦小農</a></li>
         </ul>
-    </nav>
+    </nav> -->
     <!-- Modal 登入用 -->
     <div class="modal fade" id="exampleModalCenter" tabindex="-1"
         aria-labelledby="exampleModalCenter" aria-hidden="true">
