@@ -13,16 +13,16 @@
     style="font-family: 'Noto Serif TC', serif;">
     <div class="border border-info rounded-lg"
         style="background-image:
-        url(https://23d1ua.bl.files.1drv.com/y4mFe9FW6yXmACFRYUa51yc6AXOlOYwcfKI4Syi377NcM8_eUuiAMosfCuTmcGRS6ef_BRBCauQIcN49k3GCQVLYmezy4ApL8rCt7CuPqqlZFrWOsnXU4pxqasUhKfO564iz0eA82yz0qAWdjmathn7F7tN3Rie4-Km9Tm3nHCsaAQGONUpl78howfK5x9Etsu1lVa3eKnBYHAx4UG67_7nVw?width=3919&height=508&cropmode=none);
+        url(https://bl3302files.storage.live.com/y4m_d7ZDHzfHOfhUeG5unv6_UFLgDcKd0Sd8HkGGnUXc6H7MnseF8lQo6DQ0Mv63kvSVQolRNPSUmo043YSBgEJ8K8sBT8rzu6whYc-569T-KgMTROdrAhF1Kx8RXucJGbp1bOAO15tLUB47nXmqkmTX50_dYJN_liEGjGYyUzL2f_Ot5Ls65UYz-FD74jDOVU2?width=1124&height=455&cropmode=none);
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
-        onclick="location.href='http://127.0.0.1:8000/';">
+        onclick="location.href='http://127.0.0.1:8000/farmerContent';">
         <br />
         <div id="mask" class="text-center"
             style="font-size: 100px;
-    -webkit-text-stroke: 2px white;
-    text-align: center;">當月蔬菜TOP5</div>
+    -webkit-text-stroke: 1.5px white;
+    text-align: center;">推薦小農</div>
         <br />
     </div>
     <div class="border border-info rounded-lg"
@@ -31,12 +31,12 @@
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
-        onclick="location.href='http://127.0.0.1:8000/';">
+        onclick="location.href='http://127.0.0.1:8000/sponsors';">
         <br />
         <div id="mask" class="text-center"
             style="font-size: 100px;
-    -webkit-text-stroke: 2px white;
-    text-align: center;">現在蔬菜多少錢</div>
+    -webkit-text-stroke: 1.5px white;
+    text-align: center;">贊助小農</div>
         <br />
     </div>
     <div class="border border-info rounded-lg"
@@ -45,12 +45,12 @@
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
-        onclick="location.href='http://127.0.0.1:8000/';">
+        onclick="location.href='http://127.0.0.1:8000/vegPrice';">
         <br />
         <div id="mask"
             style="font-size: 100px;
-    -webkit-text-stroke: 2px white;
-    text-align: center;">台灣現在種什麼</div>
+    -webkit-text-stroke: 1.5px white;
+    text-align: center;">現在蔬菜多少錢</div>
         <br />
     </div>
     <!--
@@ -64,9 +64,9 @@
         <br />
         <div class="bg-light text-center"
             style="font-size: 100px;
-    -webkit-text-stroke: 2px white;">台灣現在種什麼</div>
+    -webkit-text-stroke: 1.5px white;">台灣現在種什麼</div>
         <br />
-    </div> -->
+    </div> 
     <div class="border border-info rounded-lg"
         style="background-image:
         url(https://3xd1ua.bl.files.1drv.com/y4mWKHmvYLD9t7rRfMAOSanPhKiPquPc3s8Gn5jeS6xK6iBmanKnLKptEJJAi_aL_fPRhmi4OapVJgd2to1JPwWCCe6fcg8HA3vz9ewr7qIJ3LjtwD0F1vGyu9lcIJZxHUCO_Q-lDngZRnViTdMgLaA8zGhpF7BCjr-KBQv_6JSE1p6C46Gy5ltGBlo6ONO1MFcBqnjSxRZfHnIhuJwV2kkPQ?width=5951&height=1228&cropmode=none);
@@ -77,9 +77,9 @@
         <br />
         <div id="mask" class="text-center"
             style="font-size: 100px;
-    -webkit-text-stroke: 2px white;
+    -webkit-text-stroke: 1.5px white;
     text-align: center;">推薦小農</div>
         <br />
-    </div>
+    </div>-->
 </div>
 @endsection
