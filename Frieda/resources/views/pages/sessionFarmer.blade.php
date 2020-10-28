@@ -41,7 +41,7 @@
     </div>
     <div class="border border-info rounded-lg"
         style="background-image:
-        url(https://bl3302files.storage.live.com/y4mXJflaLxy85hvCVnWwjclZC6ZnVDM4OrbKVGHkjqzgS36yUjkJ3D0r7gY0ZJNM7oVdnq6y413d5Ps_p3g4hZF8CN-4peYEScrTRUQW9ModjpRug57EgiN4FN3MdkYd0LZxmIZWFP3NMCShVwCGRTxkwuE8z7yKntcwoOyHBsTWFj8l-_GlPG-7o74Kpg3eZh?width=2975&height=545&cropmode=non);
+        url(https://bl3302files.storage.live.com/y4mXJflaLxy85hvCVnWwjclZC6ZnVDM4OrbKVGHkjqzgS36yUjkJ3D0r7gY0ZJNM7oVdnq6y413d5Ps_p3g4hZF8CN-4peYEScrTRUQW9ModjpRug57EgiN4FN3MdkYd0LZxmIZWFP3NMCShVwCGRTxkwuE8z7yKntcwoOyHBsTWFj8l-_GlPG-7o74Kpg3eZh?width=2975&height=545&cropmode=none);
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
