@@ -13,7 +13,11 @@
     style="font-family: 'Noto Serif TC', serif;">
     <div class="border border-info rounded-lg"
         style="background-image:
-        url(https://23d1ua.bl.files.1drv.com/y4mFe9FW6yXmACFRYUa51yc6AXOlOYwcfKI4Syi377NcM8_eUuiAMosfCuTmcGRS6ef_BRBCauQIcN49k3GCQVLYmezy4ApL8rCt7CuPqqlZFrWOsnXU4pxqasUhKfO564iz0eA82yz0qAWdjmathn7F7tN3Rie4-Km9Tm3nHCsaAQGONUpl78howfK5x9Etsu1lVa3eKnBYHAx4UG67_7nVw?width=3919&height=508&cropmode=none);
+        url(https://bl3302files.storage.live.com/
+y4mHZA6wlNV83ggjFe4SmehUDV9DYj3SaTCFynI9CbN7dew8rt9BGOo6sZxlB6GUWA62SvB
+eEkXe6TjEFpBUo6-
+vJB0w95Tmheu465NsYF_vke0TN_kLv_PzXjgi1PiJ7SetE2cLwacegf6mio7ZGirTl6AcEh27fAOgj
+r4I96lIy7t3gamhGISsvwXnQ00Lv2R?width=5951&height=1228&cropmode=none);
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
