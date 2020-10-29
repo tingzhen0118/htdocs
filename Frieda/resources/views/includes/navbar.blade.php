@@ -13,7 +13,7 @@
         </h4>
         <h2>&nbsp&nbsp</h2>
         <button class="btn btn-outline-success btn-lg h3 p-2" type="button"
-            data-toggle="modal" data-target="#exampleModalCenter">&nbsp&nbsp登入&nbsp&nbsp</button>
+            data-toggle="modal" data-target="#exampleModalCenter">&nbsp&nbsp&nbsp登入&nbsp&nbsp&nbsp</button>
         <!--  <button class="btn btn-outline-success btn-lg h3 p-2" type="button"
             data-toggle="modal" data-target="#exampleModalCenter">農民登入</button>-->
     </nav>
