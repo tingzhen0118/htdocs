@@ -13,7 +13,7 @@
     style="font-family: 'Noto Serif TC', serif;">
     <div class="border border-info rounded-lg"
         style="background-image:
-        url();
+        url(https://bl3302files.storage.live.com/y4mOZDw6ZVSaIhrniyWC1CSyQpGmrXYgvkiRMDGfuUiPyVKYT0qouoHmvHNt4vMMGGFnYG-WiHarIvq7uNVUFb8ogYmyoB_yhfMwhf7HcPZIMCzjIoOWtNPPOKSdt33kKL-lu9RD3Z4Ql_-ZgGGiwzmkd5MJ6yxBsqttzOooztQUhrCaERV_Oftd2jKfVrLdG4x?width=1124&height=400&cropmode=none);
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
@@ -41,7 +41,7 @@
     </div>
     <div class="border border-info rounded-lg"
         style="background-image:
-        url(https://bl3302files.storage.live.com/y4mXJflaLxy85hvCVnWwjclZC6ZnVDM4OrbKVGHkjqzgS36yUjkJ3D0r7gY0ZJNM7oVdnq6y413d5Ps_p3g4hZF8CN-4peYEScrTRUQW9ModjpRug57EgiN4FN3MdkYd0LZxmIZWFP3NMCShVwCGRTxkwuE8z7yKntcwoOyHBsTWFj8l-_GlPG-7o74Kpg3eZh?width=2975&height=545&cropmode=none);
+        url(https://bl3302files.storage.live.com/y4mXJflaLxy85hvCVnWwjclZC6ZnVDM4OrbKVGHkjqzgS36yUjkJ3D0r7gY0ZJNM7oVdnq6y413d5Ps_p3g4hZF8CN-4peYEScrTRUQW9ModjpRug57EgiN4FN3MdkYd0LZxmIZWFP3NMCShVwCGRTxk-wuE8z7yKntcwoOyHBsTWFj8l-_GlPG-7o74Kpg3eZh?width=2975&height=545&cropmode=none);
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
@@ -69,7 +69,7 @@
     </div> -->
     <div class="border border-info rounded-lg"
         style="background-image:
-        url();
+        url(https://bl3302files.storage.live.com/y4mkkv2G5DI_lgeHU3-wq1o-QuPiQfgKbWwQZf1RQjc2ZtReGljPv8dcoUVSnCybrKs_5j8cbDotUktx-JxG7O0sqV1A1KpYMS7AipSq9UWI4yK1lXkqQk1mb1ocRYY5nxM8m5nTF4V2rVQJ9Ih-CC4nlHvLiPaLrnPD95IKOVRtoLl1J0LO1nZImgnlQ5pAiY8?width=5207&height=1197&cropmode=none);
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
