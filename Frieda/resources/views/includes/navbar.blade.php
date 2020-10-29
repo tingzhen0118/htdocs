@@ -2,22 +2,23 @@
     class="navbar-nav-scroll navbar-expand-sm w-100  justify-content-between">
     <nav
         class="container d-flex float-none navbar navbar-light bg-light justify-content-between">
-        <h1 class="navbar-brand font-weight-bold text-primary mr-auto p-2"
+        <h1 class="navbar-brand font-weight-bold mr-auto p-2"
             onclick="location.href='http://127.0.0.1:8000/';"
             style="font-size: 80px;">
-            <b>蔬翠好友</b>
+            <b class="text-danger">蔬</b><b class="text-success">翠</b><b
+                class="text-primary">好</b><b class="text-warning">友</b>
         </h1>
         <h4>
             <a class="text-success" data-toggle="modal"
-                data-target="#ModalRegister">註冊會員</a>
+                data-target="#ModalRegister"><b>註冊會員</b></a>
         </h4>
         <h2>&nbsp&nbsp</h2>
         <button class="btn btn-outline-success btn-lg h3 p-2" type="button"
-            data-toggle="modal" data-target="#exampleModalCenter">&nbsp&nbsp&nbsp登入&nbsp&nbsp&nbsp</button>
+            data-toggle="modal" data-target="#exampleModalCenter"><b>&nbsp&nbsp&nbsp登入&nbsp&nbsp&nbsp</b></button>
         <!--  <button class="btn btn-outline-success btn-lg h3 p-2" type="button"
             data-toggle="modal" data-target="#exampleModalCenter">農民登入</button>-->
     </nav>
-  <!--  <nav>
+    <!--  <nav>
         <ul
             class="nav nav-pills nav-justified container d-flex float-none navbar navbar-light bg-light">
             <li class="nav-item"><a class="h4 nav-link btn-outline-success"
