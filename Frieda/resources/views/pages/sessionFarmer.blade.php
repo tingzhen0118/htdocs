@@ -13,7 +13,7 @@
     style="font-family: 'Noto Serif TC', serif;">
     <div class="border border-info rounded-lg"
         style="background-image:
-        url(https://bl3302files.storage.live.com/y4mOZDw6ZVSaIhrniyWC1CSyQpGmrXYgvkiRMDGfuUiPyVKYT0qouoHmvHNt4vMMGGFnYG-WiHarIvq7uNVUFb8ogYmyoB_yhfMwhf7HcPZIMCzjIoOWtNPPOKSdt33kKLlu9RD3Z4Ql_-ZgGGiwzmkd5MJ6yxBsqttzOooztQUhrCaERV_Oftd2jKfVrLdG4x?width=1124&height=400&cropmode=none);
+        url();
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
@@ -69,7 +69,7 @@
     </div> -->
     <div class="border border-info rounded-lg"
         style="background-image:
-        url(https://bl3302files.storage.live.com/y4m_d7ZDHzfHOfhUeG5unv6_UFLgDcKd0Sd8HkGGnUXc6H7MnseF8lQo6DQ0Mv63kvSVQolRNPSUmo043YSBgEJ8K8sBT8rzu6whYc-569TKgMTROdrAhF1Kx8RXucJGbp1bOAO15tLUB47nXmqkmTX50_dYJN_liEGjGYyUzL2f_Ot5Ls65UYz-FD74jDOVU2?width=1124&height=455&cropmode=none);
+        url();
     background-repeat: no-repeat;
     background-size: cover;
     border: none;"
