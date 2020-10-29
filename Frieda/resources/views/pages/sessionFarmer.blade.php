@@ -3,7 +3,6 @@
 也可以修掉 <a> 的底線。
 也可以做出選取到時產生出選取的漸變特效。
 -->
-<!-- onclick="location.href='http://127.0.0.1:8000/';" -->
 <style>
 #mask {
     background: rgba(112, 123, 124, 0.6);
