@@ -58,3 +58,10 @@ Route::get('/designGardenFarmer',
     function () {
         return view("pages.designGardenFarmer");
     });
+
+/* ----贊助頁面---- */
+Route::get('/sponsors',
+function () {
+    return view("pages.sponsors");
+});
+
